@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I'm Phuong Oanh
 
-<!--
-**phuongoanhlpt/phuongoanhlpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Finance & Banking student  
+📍 Vietnam  
 
-Here are some ideas to get you started:
+### 🎯 Career Focus
+- Financial Analysis  
+- Banking & Credit Risk  
+- Investment Analysis  
+- Data-driven Finance  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Skills
+- Financial Statement Analysis  
+- Excel (Financial Modeling, Pivot Table)  
+- Python for Finance  
+  - Data analysis (NumPy, Pandas)  
+  - Basic Machine Learning  
+- Statistics & Econometrics  
+- IFRS Fundamentals  
+
+### 🧠 Academic Interests
+- Credit risk & loan portfolio risk  
+- Corporate finance & valuation  
+- Macroeconomic analysis  
+- Financial data analytics  
+
+### 🔍 Tools & Technologies
+- Python  
+- Excel  
+- Git & GitHub  
+- Jupyter Notebook  
+
+### 📌 Current Goals
+- Build finance-related Python projects  
+- Apply data analysis to banking problems  
+- Strengthen quantitative finance skills  
+
+### 📫 Contact
+- Email: your-email@example.com
